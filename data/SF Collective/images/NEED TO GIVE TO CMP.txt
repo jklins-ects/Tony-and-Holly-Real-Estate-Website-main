@@ -1,0 +1,24 @@
+DDE17
+DDE18
+DDE19
+DDE20
+DDE21
+DDE22
+DDE23
+DDE24
+DDE25
+DDE26
+DDE27
+DDE28
+DDE29
+DDE30
+Master Bedroom "elevation" - revit (Needs named)
+
+Need to add:
+1st Floor Electrical Plan
+2nd Floor Electrical Plan
+3rd Floor Electrical Plan
+Lighting Schedule
+Door Schedule
+Window Schedule
+All inventor Drawings

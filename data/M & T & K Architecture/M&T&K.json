@@ -1,0 +1,29 @@
+{
+  "hid": 6,
+  "property": {
+    "address": "456 Briarpatch Ct.",
+    "description": "This luxury beach house combines a beautiful view with a luxurious living space. Designed in 2025 with all the modern amenities while keeping an older more natural look. This property features a secondary home perfect for the in-laws. Featuring a 3 car garage. with 5300 square feet you will have plenty of room for your whole family. Along with the view of the lake there is also water access with on property boat storage. ",
+    "price": "800000",
+    "beds": "5",
+    "baths": "6",
+    "sqft": "5330",
+    "parking": "yes",
+    "outdoor": "Recreational area, hot tub, boat launch, firepit, wraparound porch",
+    "ac": "Yes",
+    "hoa": "0",
+    "listingDate": "2025-02-10",
+    "pricePerSqFt": "150",
+    "basement": "Finished",
+    "rooms": "25",
+    "typesOfRooms": "Living room, kitchen/dining, family room, bedrooms, bathrooms, basement recreational area, in-law home with bedroom/gym/mini kitchen",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$4160",
+        "assessment": "$416000"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

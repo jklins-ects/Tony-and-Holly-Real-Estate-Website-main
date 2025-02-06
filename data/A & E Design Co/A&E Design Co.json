@@ -1,0 +1,29 @@
+{
+  "hid": 1,
+  "property": {
+    "address": "153 Cthulhu Boulevard, Mt Ida, AR 71957",
+    "description": "This beautiful beach home is perfect for anyone who loves being close to the water. This house is one of a kind with 5 bedrooms, 5 bath, and plenty of open space! It is located right on the beach of Lake Ouachita, Arkansas with a gorgeous view of the beach. The top floor includes a personal gym and a game room with an inside hot tub. This house also includes a wraparound porch and balcony on the top floor to lookout at beach. If you love the beach, you should definitely come visit this house!",
+    "price": "745200",
+    "beds": "5",
+    "baths": "5",
+    "sqft": "4968",
+    "parking": "Yes",
+    "outdoor": "Solar panels, wrap around porch, balcony, and located right on the beach ",
+    "ac": "Yes",
+    "hoa": "0",
+    "listingDate": "2025-02-11",
+    "pricePerSqFt": "150",
+    "basement": "No basement ",
+    "rooms": "17",
+    "typesOfRooms": "Kitchen, living room, dining room, bathroom, bedroom, storage, game room, and gym",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$3875.04",
+        "assessment": "$387504"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

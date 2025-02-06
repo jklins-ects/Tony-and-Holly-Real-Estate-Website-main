@@ -1,0 +1,29 @@
+{
+  "hid": 3,
+  "property": {
+    "address": "1 Palm Street",
+    "description": "Great lakeside property on an island in Lake Ouachita. Built in 2025 with a beautiful view, and walking distance to the lake. There is also a port on the island since it is only accessible by boat. This is a 2-story open concept house. The house has 4 bedrooms, one of which being the master bedroom, and 3 bathrooms, one of which being a master bathroom. There is a secret study behind the bookcase in the master bedroom. There is also a balcony with stairs that lead down to an open patio area. This lounge area also includes a kitchen area. There is a garage that is meant for a golf cart to ride around the island on. There is also a half bathroom that connects to the outside and the living room. The rest of the bedrooms are on the second floor. The kitchen is huge with all of the appliances that you need. There is also an island in the kitchen for extra seating. The dining room is connected to the kitchen with big picture windows to allow a lot of natural light into the house.",
+    "price": "775200",
+    "beds": "4",
+    "baths": "3",
+    "sqft": "5168",
+    "parking": "Yes",
+    "outdoor": "Beachside property, with outdoor seating area and kitchen",
+    "ac": "Yes",
+    "hoa": "0",
+    "listingDate": "2025-02-13",
+    "pricePerSqFt": "150",
+    "basement": "none",
+    "rooms": "12",
+    "typesOfRooms": "Master Bedroom, Master Bathroom, 3 Bedrooms, 1.5 Bath, Kitchen, Dining Room, Living Room, Secret Study",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$4031",
+        "assessment": "$403104"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

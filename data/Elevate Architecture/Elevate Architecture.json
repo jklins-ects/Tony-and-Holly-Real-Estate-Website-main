@@ -1,0 +1,29 @@
+{
+  "hid": 5,
+  "property": {
+    "address": "123 Rocky Creek road",
+    "description": "This is an open floor planned home, with lots of space everywhere. The house was built in 2025 in Lake Ouachita with 4 bedrooms, 3 1/2 bathrooms, an outdoor kitchen and pool accompanied by a guest house. many neutral colors and an inviting fireplace in the living room and master bedroom. The basement is finished with a nice home gym. Outside this lovely home is a beautiful pond, giving this home the kiss that it needs.",
+    "price": "838650",
+    "beds": "4",
+    "baths": "4",
+    "sqft": "5591",
+    "parking": "Yes",
+    "outdoor": "Porch, Outdoor Kitchen, Pond and pool",
+    "ac": "Yes",
+    "hoa": "0",
+    "listingDate": "2025-02-11",
+    "pricePerSqFt": "150",
+    "basement": "Finished",
+    "rooms": "15",
+    "typesOfRooms": "Kitchen/Living room/Dining Room, Gym, Bathroom, Bedroom, Storm Shelter, Walk in Freezer, Pantry Mud/Laundry Room, and Walk in Closet",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$4360.98",
+        "assessment": "$436098"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

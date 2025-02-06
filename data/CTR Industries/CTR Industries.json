@@ -1,0 +1,29 @@
+{
+  "hid": 4,
+  "property": {
+    "address": "123 Crossbow Garland Country, AR 71949",
+    "description": "Don't you want to live in the deep in the forest around Lake Ouachita. Including 3 bedrooms and 2 1/2 bathrooms with a separate garage that car store up to 2 cars. and you will have a stunning view from your porch and with a fabulous hot tub and underneath you is a beautiful grill set. and also including with open floor plan and also well with a basement with a home theater and home office all in the basement as well with a lot of unused space nice for storage. this recently constructed 2025 house is great home if you want to live in the forest.",
+    "price": "861900",
+    "beds": "3",
+    "baths": "3",
+    "sqft": "5746",
+    "parking": "yes",
+    "outdoor": "Grill, hot tub, and balcony",
+    "ac": "yes",
+    "hoa": "0",
+    "listingDate": "2025-02-11",
+    "pricePerSqFt": "150",
+    "basement": "Partially Finished",
+    "rooms": "13",
+    "typesOfRooms": "Master bedroom, Jack & Jill bath, master bath, dining room, theater, living room, storage, office",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$4481.88",
+        "assessment": "$448188"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

@@ -1,0 +1,29 @@
+{
+  "hid": 11,
+  "property": {
+    "address": "740 Chrysalis Rd, Jessieville, AR 71949",
+    "description": "A unique home built in 2025, located near Lake Quachita with a beautiful view from the back portion of the wrap around porch. You will find this custom built one of a kind 5 bedroom, 5 bath with entertainment space! On the first floor you will find the office, garage. You will find that the master bedroom has a walk-in closet! Upon going up to the third floor you will find that there is a bar, games, and a MOVIE ROOM! There is an attached 2 car garage. Outside you have a beautiful patio where you can soak up all the sun at the pool, hot tub, sitting area, and outside kitchen! Relax with family and friends around the outdoor firepit. ",
+    "price": "767550",
+    "beds": "5",
+    "baths": "5",
+    "sqft": "5117",
+    "parking": "Yes",
+    "outdoor": "A pool, hot tub, firepit, Outdoor seating",
+    "ac": "Yes",
+    "hoa": "0",
+    "listingDate": "2025-02-11",
+    "pricePerSqFt": "150",
+    "basement": "No Basement",
+    "rooms": "18",
+    "typesOfRooms": "Kitchen/dining room, office, living rooms, master bedroom, laundry room, bedrooms, bathrooms, movie room, game room/bar",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$4420",
+        "assessment": "$442000"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

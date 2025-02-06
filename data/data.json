@@ -1,0 +1,332 @@
+[
+    {
+        "hid": 1,
+        "property": {
+            "address": "153 Cthulhu Boulevard, Mt Ida, AR 71957",
+            "description": "This beautiful beach home is perfect for anyone who loves being close to the water. This house is one of a kind with 5 bedrooms, 5 bath, and plenty of open space! It is located right on the beach of Lake Ouachita, Arkansas with a gorgeous view of the beach. The top floor includes a personal gym and a game room with an inside hot tub. This house also includes a wraparound porch and balcony on the top floor to lookout at beach. If you love the beach, you should definitely come visit this house!",
+            "price": "745200",
+            "beds": "5",
+            "baths": "5",
+            "sqft": "4968",
+            "parking": "Yes",
+            "outdoor": "Solar panels, wrap around porch, balcony, and located right on the beach",
+            "ac": "Yes",
+            "hoa": "0",
+            "listingDate": "2025-02-11",
+            "pricePerSqFt": "150",
+            "basement": "No basement",
+            "rooms": "17",
+            "typesOfRooms": "Kitchen, living room, dining room, bathroom, bedroom, storage, game room, and gym",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$3875.04",
+                    "assessment": "$387504"
+                }
+            ]
+        },
+        "similarHomes": [2, 3],
+        "numImages": 48,
+        "rootname": "../data/A & E Design Co/images"
+    },
+    {
+        "hid": 2,
+        "property": {
+            "address": "5451 Mountain Pine Rd, Mountain Pine, AR",
+            "description": "Enjoy a mix of rustic and modern comfort in this wonderful nature loving forest home. This home captures the feel of relaxation. Not too far is a lake for a serene view. Located near \"Lake Quachita\" enjoy a site seeing ride just 30 minutes from the deep blue lake. Capture the forest feel in this 5,109 sqft luxurious log home. Feel rested within the 3 bed 6 bath home with plenty of space for family. Enjoy the loft views as they perfectly capture the beautiful wilderness! Staying in this log home gives you the perfect escape from Urban life while offering fresh air and , abundant wildlife, and the calming presence of nature. This home features a large living/dining room with plenty of sunlight. Enjoy a nice meal in the large open kitchen featuring a walk in pantry. If you have a love for flowers enjoy our greenhouse with plenty of greenery. Invite over some friends and family over to make use of the back patio, hot tub and grill! Book now and feel the relaxation included in this home!",
+            "price": "766486",
+            "beds": "3",
+            "baths": "6",
+            "sqft": "5109.91",
+            "parking": "yes",
+            "outdoor": "Hot-Tub, Grill, Outdoor dining, Greenhouse",
+            "ac": "yes",
+            "hoa": "0",
+            "listingDate": "N/A",
+            "pricePerSqFt": "150",
+            "basement": "Finished",
+            "rooms": "20",
+            "typesOfRooms": "Living/ Dining Room, Kitchen, Pantry, Office, two 1/2 baths, mudroom, loft, 2 secret rooms, laundry, full baths, animal room, Master bedroom, 2 guest rooms, walk-in-closets.",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$3985",
+                    "assessment": "$398500"
+                }
+            ]
+        },
+        "similarHomes": [1, 3],
+        "numImages": 44,
+        "rootname": "../data/A. G. Architecture/images"
+    },
+    {
+        "hid": 3,
+        "property": {
+            "address": "1 Palm Street",
+            "description": "Great lakeside property on an island in Lake Ouachita. Built in 2025 with a beautiful view, and walking distance to the lake. There is also a port on the island since it is only accessible by boat. This is a 2-story open concept house. The house has 4 bedrooms, one of which being the master bedroom, and 3 bathrooms, one of which being a master bathroom. There is a secret study behind the bookcase in the master bedroom. There is also a balcony with stairs that lead down to an open patio area. This lounge area also includes a kitchen area. There is a garage that is meant for a golf cart to ride around the island on. There is also a half bathroom that connects to the outside and the living room. The rest of the bedrooms are on the second floor. The kitchen is huge with all of the appliances that you need. There is also an island in the kitchen for extra seating. The dining room is connected to the kitchen with big picture windows to allow a lot of natural light into the house.",
+            "price": "775200",
+            "beds": "4",
+            "baths": "3",
+            "sqft": "5168",
+            "parking": "Yes",
+            "outdoor": "Beachside property, with outdoor seating area and kitchen",
+            "ac": "Yes",
+            "hoa": "0",
+            "listingDate": "2025-02-13",
+            "pricePerSqFt": "150",
+            "basement": "none",
+            "rooms": "12",
+            "typesOfRooms": "Master Bedroom, Master Bathroom, 3 Bedrooms, 1.5 Bath, Kitchen, Dining Room, Living Room, Secret Study",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$4031",
+                    "assessment": "$403104"
+                }
+            ]
+        },
+        "similarHomes": [1, 2],
+        "numImages": 70,
+        "rootname": "../data/AA Design/images"
+    },
+    {
+        "hid": 4,
+        "property": {
+            "address": "123 Crossbow Garland Country, AR 71949",
+            "description": "Don't you want to live in the deep in the forest around Lake Ouachita. Including 3 bedrooms and 2 1/2 bathrooms with a separate garage that car store up to 2 cars. and you will have a stunning view from your porch and with a fabulous hot tub and underneath you is a beautiful grill set. and also including with open floor plan and also well with a basement with a home theater and home office all in the basement as well with a lot of unused space nice for storage. this recently constructed 2025 house is great home if you want to live in the forest.",
+            "price": "861900",
+            "beds": "3",
+            "baths": "3",
+            "sqft": "5746",
+            "parking": "yes",
+            "outdoor": "Grill, hot tub, and balcony",
+            "ac": "yes",
+            "hoa": "0",
+            "listingDate": "2025-02-11",
+            "pricePerSqFt": "150",
+            "basement": "Partially Finished",
+            "rooms": "13",
+            "typesOfRooms": "Master bedroom, Jack & Jill bath, master bath, dining room, theater, living room, storage, office",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$4481.88",
+                    "assessment": "$448188"
+                }
+            ]
+        },
+        "similarHomes": [],
+        "numImages": 77,
+        "rootname": "../data/CTR Industries/images"
+    },
+    {
+        "hid": 5,
+        "property": {
+            "address": "123 Rocky Creek road",
+            "description": "This is an open floor planned home, with lots of space everywhere. The house was built in 2025 in Lake Ouachita with 4 bedrooms, 3 1/2 bathrooms, an outdoor kitchen and pool accompanied by a guest house. many neutral colors and an inviting fireplace in the living room and master bedroom. The basement is finished with a nice home gym. Outside this lovely home is a beautiful pond, giving this home the kiss that it needs.",
+            "price": "838650",
+            "beds": "4",
+            "baths": "4",
+            "sqft": "5591",
+            "parking": "Yes",
+            "outdoor": "Porch, Outdoor Kitchen, Pond and pool",
+            "ac": "Yes",
+            "hoa": "0",
+            "listingDate": "2025-02-11",
+            "pricePerSqFt": "150",
+            "basement": "Finished",
+            "rooms": "15",
+            "typesOfRooms": "Kitchen/Living room/Dining Room, Gym, Bathroom, Bedroom, Storm Shelter, Walk in Freezer, Pantry Mud/Laundry Room, and Walk in Closet",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$4360.98",
+                    "assessment": "$436098"
+                }
+            ]
+        },
+        "similarHomes": [6, 7],
+        "numImages": 41,
+        "rootname": "../data/Elevate Architecture/images"
+    },
+    {
+        "hid": 6,
+        "property": {
+            "address": "456 Briarpatch Ct.",
+            "description": "This luxury beach house combines a beautiful view with a luxurious living space. Designed in 2025 with all the modern amenities while keeping an older more natural look. This property features a secondary home perfect for the in-laws. Featuring a 3 car garage. with 5300 square feet you will have plenty of room for your whole family. Along with the view of the lake there is also water access with on property boat storage.",
+            "price": "800000",
+            "beds": "5",
+            "baths": "6",
+            "sqft": "5330",
+            "parking": "yes",
+            "outdoor": "Recreational area, hot tub, boat launch, firepit, wraparound porch",
+            "ac": "Yes",
+            "hoa": "0",
+            "listingDate": "2025-02-10",
+            "pricePerSqFt": "150",
+            "basement": "Finished",
+            "rooms": "25",
+            "typesOfRooms": "Living room, kitchen/dining, family room, bedrooms, bathrooms, basement recreational area, in-law home with bedroom/gym/mini kitchen",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$4160",
+                    "assessment": "$416000"
+                }
+            ]
+        },
+        "similarHomes": [5, 7],
+        "numImages": 55,
+        "rootname": "../data/M & T & K Architecture/images"
+    },
+    {
+        "hid": 7,
+        "property": {
+            "address": "12 Yaney Drive Mt Ida, AR 71957",
+            "description": "This stunning mountain-top home is located on the beautiful Lake Ouachita in Mt. Ida, Arkansas. Built in 2025, this home has breathtaking views of the lake and surrounding mountains. Enjoy the mix of rustic and modern style, creating a comfortable and welcoming environment. This home's 5 bedrooms, 5 bathrooms, 3-car garage, and finished basement provide enough room for the whole family. The beautiful master suite includes a large bathroom with a shower and soaking tub, and a 100 square foot walk-in closet. The fished basement provides a modern gym with rock-climbing wall, a game room, and even a movie theater. The backyard is perfect for entertaining with a firepit, outdoor kitchen, and a large in-ground swimming pool. Whether you enjoy entertaining or just relaxing outdoors, this home is perfect for you and your family.",
+            "price": "681600",
+            "beds": "5",
+            "baths": "5",
+            "sqft": "4544",
+            "parking": "yes",
+            "outdoor": "pool, outdoor kitchen, pergola, firepit",
+            "ac": "yes",
+            "hoa": "0",
+            "listingDate": "2025-02-11",
+            "pricePerSqFt": "150",
+            "basement": "finished",
+            "rooms": "19",
+            "typesOfRooms": "Great Room, Dining Room, Kitchen, 4 guest bedroom, 2 guest bathroom, master bedroom, master bathroom, 2 half bathroom, gym, family room, game room, movie theater, laundry room, bunker",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$3544.32",
+                    "assessment": "$354432"
+                }
+            ]
+        },
+        "similarHomes": [5, 6],
+        "numImages": 63,
+        "rootname": "../data/Q & P Design/images"
+    },
+    {
+        "hid": 8,
+        "property": {
+            "address": "14381 Water street",
+            "description": "This gorgeous home is located along Lake Ouachita, offering a beautiful view of the lake right from your bedroom! This home features a cozy, rustic interior including three bedrooms, three bathrooms, and an adjoined kitchen, dining, and living room space. This wonderful home is complete with a lanai and a covered, wraparound porch. Additionally, this home includes a game room, stylish in-law apartment, and heavenly saltwater hot tub. Enjoy a luxurious, relaxing lifestyle along Lake Ouachita with this fabulous house.",
+            "price": "606600",
+            "beds": "5",
+            "baths": "2",
+            "sqft": "4044",
+            "parking": "yes",
+            "outdoor": "Lanai and shower",
+            "ac": "yes",
+            "hoa": "0",
+            "listingDate": "2025-02-13",
+            "pricePerSqFt": "150",
+            "basement": "Finished",
+            "rooms": "13",
+            "typesOfRooms": "Bedrooms, kitchen, living room/ dining room, Bathroom",
+            "taxData": [
+                {
+                    "year": "2025",
+                    "tax": "$3154.32",
+                    "assessment": "$315432"
+                }
+            ]
+        },
+        "similarHomes": [9, 10],
+        "numImages": 25,
+        "rootname": "../data/R & E Architecture/images"
+    },
+    {
+        "hid": 9,
+        "property": {
+            "address": "367 Owl Creek Rd, Royal, AR 71968",
+            "description": "This vintage, old-fashioned home was designed in 2024 and built in 2025. This house is located by Lake Ouachita. This house has 3 floors and no basement. The first floor has the garage, one bedroom, and a storage/washing room. The first floor has a combined living and dining space. The second floor has 4 bedrooms with a beautiful rectangular opening in the middle of the first floor ceiling and wide windows surrounding it to provide natural light. The 3rd floor, we call the master floor. It has a beautiful A-frame that details the triangular windows in the wall. It only holds the master bedroom and bathroom but includes a balcony off the 2nd floor, that allows you to sit right outside your bedroom and watch the mountains.",
+            "price": "531300",
+            "beds": "6",
+            "baths": "7",
+            "sqft": "3542",
+            "parking": "yes",
+            "outdoor": "Swimming pool, hottub, balcony off the 3rd floor",
+            "ac": "yes",
+            "hoa": "0",
+            "listingDate": "2025-02-13",
+            "pricePerSqFt": "150",
+            "basement": "No basement",
+            "rooms": "17",
+            "typesOfRooms": "kitchen/dining/living room, bathrooms, bedrooms, storage room",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$4160",
+                    "assessment": "$416000"
+                }
+            ]
+        },
+        "similarHomes": [],
+        "numImages": 33,
+        "rootname": "../data/R & R Landscaping & Design/images"
+    },
+    {
+        "hid": 10,
+        "property": {
+            "address": "1 Sunfish Drive, Montgomery County, AR 71957",
+            "description": "Stunning new construction home on lakefront Lake Ouchita. Wake up to natural surroundings and a wrap-around lake view. Step onto one of three balconies, enjoy a nice fire, wash off after a beach day in the outdoor shower or relax in a hot tub. Walk from room to room with an open floor plan and an elevator inside. Wood floors throughout give your home a natural look.\nEnjoy entertaining? Utilize a modern kitchen with two stoves, an island, a wine fridge, and accent lights connected with a family room. Custom cabinets allow plenty of storage space, including an additional under-stair counter space. Enjoy a first floor game room and kitchenette for endless hours of family fun! Walk right on to your own beach and go for a swim! Large windows throughout allow lots of natural light and amazing views of the natural landscaping.\nAn isolated heated workspace attached to the garage allows you to get focused work done, work on a project, or relax after social hour. A large driveway and three-car garage allows for plenty of parking for visitors. Come see this stunning new lakefront property with all the features you need!",
+            "price": "934500",
+            "beds": "8",
+            "baths": "8",
+            "sqft": "6230",
+            "parking": "Yes",
+            "outdoor": "Detached garage, outdoor shower, wrap-around balcony, 2 separate balconies, and hot tub",
+            "ac": "Yes",
+            "hoa": "0",
+            "listingDate": "2025-02-13",
+            "pricePerSqFt": "150",
+            "basement": "None",
+            "rooms": "24",
+            "typesOfRooms": "Game room, family room, workshop, laundry room, kitchen, and dining room",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$4859.40",
+                    "assessment": "$485940"
+                }
+            ]
+        },
+        "similarHomes": [],
+        "numImages": 77,
+        "rootname": "../data/SF Collective/images"
+    },
+    {
+        "hid": 11,
+        "property": {
+            "address": "740 Chrysalis Rd, Jessieville, AR 71949",
+            "description": "A unique home built in 2025, located near Lake Quachita with a beautiful view from the back portion of the wrap around porch. You will find this custom built one of a kind 5 bedroom, 5 bath with entertainment space! On the first floor you will find the office, garage. You will find that the master bedroom has a walk-in closet! Upon going up to the third floor you will find that there is a bar, games, and a MOVIE ROOM! There is an attached 2 car garage. Outside you have a beautiful patio where you can soak up all the sun at the pool, hot tub, sitting area, and outside kitchen! Relax with family and friends around the outdoor firepit.",
+            "price": "767550",
+            "beds": "5",
+            "baths": "5",
+            "sqft": "5117",
+            "parking": "Yes",
+            "outdoor": "A pool, hot tub, firepit, Outdoor seating",
+            "ac": "Yes",
+            "hoa": "0",
+            "listingDate": "2025-02-11",
+            "pricePerSqFt": "150",
+            "basement": "No Basement",
+            "rooms": "18",
+            "typesOfRooms": "Kitchen/dining room, office, living rooms, master bedroom, laundry room, bedrooms, bathrooms, movie room, game room/bar",
+            "taxData": [
+                {
+                    "year": "2024",
+                    "tax": "$4420",
+                    "assessment": "$442000"
+                }
+            ]
+        },
+        "similarHomes": [],
+        "numImages": 52,
+        "rootname": "../data/Shoreline Structures/images"
+    }
+]

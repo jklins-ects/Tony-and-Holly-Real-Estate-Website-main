@@ -1,0 +1,29 @@
+{
+  "hid": 8,
+  "property": {
+    "address": "14381 Water street",
+    "description": "This gorgeous home is located along Lake Ouachita, offering a beautiful view of the lake right from your bedroom! This home features a cozy, rustic interior including three bedrooms, three bathrooms, and an adjoined kitchen, dining, and living room space. This wonderful home is complete with a lanai and a covered, wraparound porch. Additionally, this home includes a game room, stylish in-law apartment, and heavenly saltwater hot tub. Enjoy a luxurious, relaxing lifestyle along Lake Ouachita with this fabulous house. ",
+    "price": "606600",
+    "beds": "5",
+    "baths": "2",
+    "sqft": "4044",
+    "parking": "yes",
+    "outdoor": "Lanai and shower",
+    "ac": "yes",
+    "hoa": "0",
+    "listingDate": "2025-02-13",
+    "pricePerSqFt": "150",
+    "basement": "Finished",
+    "rooms": "13",
+    "typesOfRooms": "Bedrooms, kitchen, living room/ dining room, Bathroom",
+    "taxData": [
+      {
+        "year": "2025",
+        "tax": "$3154.32",
+        "assessment": "$315432"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

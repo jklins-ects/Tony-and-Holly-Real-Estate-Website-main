@@ -1,0 +1,359 @@
+html,
+body {
+  margin: 0;
+  font-family: Inter, sans-serif;
+}
+
+header {
+  background-color: #e2f4fe;
+  margin-bottom: 200px;
+}
+
+#navbar {
+  display: flex;
+  width: 100%;
+  height: 6rem;
+  align-items: center;
+  background-color: white;
+  padding-bottom: 3px;
+}
+
+#navbar > div > a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: black;
+  transition: transform 0.3s ease-in-out;
+  text-align: center;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+}
+
+#navbar > div > a:hover {
+  transform: scale(1.1);
+  filter: brightness(1.2);
+}
+
+#navbar > #leftnav,
+#navbar > #rightnav {
+  display: flex;
+  gap: 50px;
+  position: absolute;
+}
+
+#navbar > #leftnav {
+  left: 40px;
+}
+
+#navbar > #rightnav {
+  right: 40px;
+}
+
+.head-card {
+  width: 100%;
+  display: flex;
+}
+
+.head-image-container {
+  overflow: visible;
+  background-image: url("../images/ph/robert-evans-contracting-window-installation1.png");
+  width: 40%;
+  background-repeat: no-repeat;
+  background-position-x: left;
+  background-size: cover;
+}
+
+.header-large-overlay-text {
+  font-size: 6rem;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px;
+}
+
+.header-slogan-container {
+  display: flex;
+  flex-direction: column;
+  margin: 130px 0 170px 80px;
+  width: 60%;
+}
+
+#get-started-btn {
+  background-color: black;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 10px;
+  margin: 25px auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: transform 0.3s ease-in-out;
+}
+
+#get-started-btn:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+  filter: brightness(1.2);
+}
+
+#get-started-btn > a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.7rem;
+}
+
+.header-medium-overlay-text {
+  text-align: center;
+  font-size: 1.7rem;
+  color: rgb(90, 90, 90);
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.container {
+  box-sizing: content-box;
+  width: 100%;
+  height: 300px;
+  margin: 0 auto;
+  overflow: hidden;
+  transition: 1s all;
+}
+
+.carousel-container {
+  width: calc(100% + 17px);
+  height: calc(100% + 17px);
+  padding: 15px 17px 15px 0;
+  overflow: auto;
+  white-space: nowrap;
+}
+
+.carousel-container::before {
+  content: "";
+  display: inline-block;
+  vertical-align: middle;
+  height: 100%;
+}
+
+.card {
+  vertical-align: middle;
+  display: inline-block;
+  width: 250px;
+  height: 150px;
+  border-radius: 5px;
+  margin: 5px;
+  transition: 0.5s all;
+}
+
+.controls {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  color: #000000ff;
+  text-align: center;
+  line-height: 25px;
+  background: #00000055;
+}
+
+.controls:nth-child(1) {
+  left: 5px;
+}
+
+.controls:nth-child(2) {
+  right: 5px;
+}
+
+.outer {
+  position: relative;
+  transform: translateY(50%);
+}
+
+.card {
+  position: relative;
+}
+
+.card:hover {
+  transform: translateY(1px);
+}
+
+.card:hover .details {
+  transform: translateY(40%);
+}
+
+.card:hover .image {
+  transform: scale(1);
+}
+
+.card .image {
+  position: absolute;
+  width: 100%;
+  z-index: 1;
+  height: 100%;
+  transition: 0.2s all ease-in;
+  top: -40px;
+  transform: scale3d(0.9, 0.9, 1);
+  border-radius: 5px;
+  box-shadow: 0 4px 31px -3px #00000082;
+}
+
+.card .details {
+  text-align: center;
+  padding-top: 120px;
+  border-radius: 5px;
+  position: absolute;
+  transition: 0.5s all ease-out;
+  width: 100%;
+  height: 100%;
+  background: #eeeeee;
+  box-shadow: 0 4px 31px -3px #00000082;
+}
+
+.holder {
+  width: 60%;
+  background: #262424;
+  height: 400px;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, 4rem);
+  border-radius: 5px;
+}
+
+.title {
+  font-family: Inter, sans-serif;
+  font-size: 3em;
+  color: #eee;
+  text-align: center;
+  margin-top: 30px;
+}
+
+#search-section {
+  box-shadow: 3px 3px 2px 2px rgba(0, 0, 0, 0.3);
+  width: fit-content;
+  background: white;
+  color: #fff;
+  transform: translate(-50%, -50%);
+  border-radius: 2px;
+  left: 50%;
+  padding: 30px 35px 35px 35px;
+  text-align: center;
+  position: absolute;
+  z-index: 1 !important;
+  border-radius: 5px;
+}
+
+.search-card-text {
+  color: black;
+  text-align: left;
+  padding-bottom: 20px;
+  font-weight: 500;
+}
+
+.search {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.search input,
+.search button {
+  border: 0;
+  outline: 0;
+}
+
+.search button {
+  background: #e2f4fe;
+  border-radius: 15px;
+  width: 60px;
+  height: 60px;
+  cursor: pointer;
+  box-shadow: 3px 3px 5px 2px rgba(0, 0, 0, 0.1);
+}
+
+.search button:hover {
+  background-color: #bce6fd;
+}
+
+.icon-input {
+  display: flex;
+  flex-direction: row;
+  background: #e2f4fe;
+  color: #555;
+  padding: 5px;
+  height: 60px;
+  flex: 1;
+  margin-right: 16px;
+  font-size: 18px;
+  border-radius: 10px;
+  box-shadow: 3px 3px 5px 2px rgba(0, 0, 0, 0.05);
+}
+
+.icon-input input {
+  padding-right: 20px;
+  background: #e2f4fe;
+  margin: 0;
+  border-radius: 10px;
+}
+
+.icon-input input[type="text"] {
+  padding-left: 12px;
+  font-family: Inter, sans-serif;
+  font-size: 1rem;
+}
+
+.icon-input img {
+  padding-left: 5px;
+}
+
+.black-icon {
+  filter: brightness(0%);
+}
+
+#gallery-section {
+  margin-top: 30px;
+}
+
+.gallery-container {
+  width: 100%;
+  height: 200px;
+}
+
+.gallery-container .estate-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+}
+
+.gallery-container .estate-container .property-card {
+  width: 100%;
+  height: 600px;
+  background-color: white;
+  border-radius: 10px;
+}
+
+.estate-container .property-card img {
+  object-fit: cover;
+  width: 100%;
+  display: block;
+  height: 300px;
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+@media (max-width: 1950px) {
+  .estate-container :nth-last-child(1) {
+    display: none;
+  }
+}
+
+main {
+  margin: 0 5%;
+}
+
+.gallery-title {
+  font-size: 2rem;
+}

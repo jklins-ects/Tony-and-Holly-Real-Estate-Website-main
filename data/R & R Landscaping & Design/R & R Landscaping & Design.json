@@ -1,0 +1,29 @@
+{
+  "hid": 9,
+  "property": {
+    "address": "367 Owl Creek Rd, Royal, AR 71968",
+    "description": "This vintage, old-fashioned home was designed in 2024 and built in 2025. This house is located by Lake Ouachita. This house has 3 floors and no basement. The first floor has the garage, one bedroom, and a storage/washing room. The first floor has a combined living and dining space. The second floor has 4 bedrooms with a beautiful rectangular opening in the middle of the first floor ceiling and wide windows surrounding it to provide natural light. The 3rd floor, we call the master floor. It has a beautiful A-frame that details the triangular windows in the wall. It only holds the master bedroom and bathroom but includes a balcony off the 2nd floor, that allows you to sit right outside your bedroom and watch the mountains. ",
+    "price": "531300",
+    "beds": "6",
+    "baths": "7",
+    "sqft": "3542",
+    "parking": "yes",
+    "outdoor": "Swimming pool, hottub, balcony off the 3rd floor",
+    "ac": "yes",
+    "hoa": "0",
+    "listingDate": "2025-02-13",
+    "pricePerSqFt": "150",
+    "basement": "No basement",
+    "rooms": "17",
+    "typesOfRooms": "kitchen/dining/living room, bathrooms, bedrooms, storage room",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$4160",
+        "assessment": "$416000"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

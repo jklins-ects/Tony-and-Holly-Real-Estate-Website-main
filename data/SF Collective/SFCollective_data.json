@@ -1,0 +1,29 @@
+{
+  "hid": 10,
+  "property": {
+    "address": "1 Sunfish Drive, Montgomery County, AR 71957",
+    "description": "Stunning new construction home on lakefront Lake Ouchita. Wake up to natural surroundings and a wrap-around lake view. Step onto one of three balconies, enjoy a nice fire, wash off after a beach day in the outdoor shower or relax in a hot tub. Walk from room to room with an open floor plan and an elevator inside. Wood floors throughout give your home a natural look.\nEnjoy entertaining? Utilize a modern kitchen with two stoves, an island, a wine fridge, and accent lights connected with a family room. Custom cabinets allow plenty of storage space, including an additional under-stair counter space. Enjoy a first floor game room and kitchenette for endless hours of family fun! Walk right on to your own beach and go for a swim! Large windows throughout allow lots of natural light and amazing views of the natural landscaping.\nAn isolated heated workspace attached to the garage allows you to get focused work done, work on a project, or relax after social hour. A large driveway and three-car garage allows for plenty of parking for visitors. Come see this stunning new lakefront property with all the features you need!",
+    "price": "934500",
+    "beds": "8",
+    "baths": "8",
+    "sqft": "6230",
+    "parking": "Yes",
+    "outdoor": "Detached garage, outdoor shower, wrap-around balcony, 2 separate balconies, and hot tub",
+    "ac": "Yes",
+    "hoa": "0",
+    "listingDate": "2025-02-13",
+    "pricePerSqFt": "150",
+    "basement": "None",
+    "rooms": "24",
+    "typesOfRooms": "Game room, family room, workshop, laundry room, kitchen, and dining room",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$4859.40",
+        "assessment": "$485940"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}

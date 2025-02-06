@@ -1,0 +1,200 @@
+html,
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  background-color: #e2f4fe;
+  color: #000;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+#navbar {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  height: 6rem;
+  align-items: center;
+  background-color: white;
+  padding-bottom: 3px;
+}
+
+#navbar > div > a {
+  font-size: 2rem;
+  text-decoration: none;
+  color: black;
+  transition: transform 0.3s ease-in-out;
+  text-align: center;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 400;
+}
+
+#navbar > div > a:hover {
+  transform: scale(1.1);
+  filter: brightness(1.2);
+}
+
+#navbar > #leftnav,
+#navbar > #rightnav {
+  display: flex;
+  gap: 50px;
+  position: absolute;
+}
+
+#navbar > #leftnav {
+  left: 40px;
+}
+
+#navbar > #rightnav {
+  right: 40px;
+}
+
+#more-info,
+#calc-btn {
+  width: 100%;
+  min-width: 200px;
+  margin-top: 0.8em;
+  padding: 0.5em 1.5em;
+  background-color: #000;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 1.25em;
+  transition: transform 0.3s ease-in-out;
+  box-sizing: border-box;
+}
+
+#more-info:hover,
+#calc-btn:hover {
+  transform: scale(1.015);
+  filter: brightness(1.1);
+}
+
+.property-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin-bottom: 2em;
+  padding: 0 1em;
+}
+
+#property-info {
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.2);
+  transition: ease-in-out 0.3s;
+  padding: 1em;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+#slogan {
+  font-size: 2em;
+  margin-bottom: 0.5em;
+}
+
+#address-info {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  margin-bottom: 1em;
+}
+
+#property-address {
+  font-size: 1.5em;
+  font-weight: bold;
+}
+
+#property-description {
+  font-size: 1.25em;
+  color: #000;
+}
+
+#brief-info:hover,
+#property-info:hover {
+  transform: scale(1.01);
+  filter: brightness(1.2);
+}
+
+#brief-info {
+  box-shadow: 0px 0px 10px 5px rgba(0, 0, 0, 0.2);
+  transition: ease-in-out 0.3s;
+  padding: 1em;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+#property-price {
+  font-weight: bold;
+  font-size: 1.5em;
+}
+
+#property-beds-baths-sqft {
+  font-size: 1.25em;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+}
+
+#developer-name {
+  font-style: italic;
+  font-size: 1.25em;
+}
+
+#similar-homes {
+  padding: 1em;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-bottom: 2em;
+}
+
+#similar-homes h3 {
+  font-size: 1.4em;
+  margin-bottom: 0.5em;
+}
+
+footer {
+  background-color: #000;
+  color: #fff;
+  padding: 1em;
+  text-align: center;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+  font-size: 0.9em;
+}
+
+#home-highlights {
+  padding: 1em;
+  background-color: #fff;
+  border-radius: 10px;
+  margin-bottom: 2em;
+}
+
+#home-highlights h3 {
+  font-size: 1.4em;
+  margin-bottom: 0.5em;
+}
+
+@media (min-width: 1024px) {
+  .property-container {
+    flex-direction: row;
+  }
+
+  #property-info {
+    flex: 2;
+  }
+
+  #brief-info {
+    flex: 1.3;
+  }
+}
+
+@media (max-width: 768px) {
+  footer p {
+    font-size: 1.2em;
+  }
+}

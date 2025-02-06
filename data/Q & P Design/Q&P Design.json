@@ -1,0 +1,29 @@
+{
+  "hid": 7,
+  "property": {
+    "address": "12 Yaney Drive Mt Ida, AR 71957",
+    "description": "This stunning mountain-top home is located on the beautiful Lake Ouachita in Mt. Ida, Arkansas. Built in 2025, this home has breathtaking views of the lake and surrounding mountains. Enjoy the mix of rustic and modern style, creating a comfortable and welcoming environment. This home's 5 bedrooms, 5 bathrooms, 3-car garage, and finished basement provide enough room for the whole family. The beautiful master suite includes a large bathroom with a shower and soaking tub, and a 100 square foot walk-in closet. The fished basement provides a modern gym with rock-climbing wall, a game room, and even a movie theater. The backyard is perfect for entertaining with a firepit, outdoor kitchen, and a large in-ground swimming pool. Whether you enjoy entertaining or just relaxing outdoors, this home is perfect for you and your family.",
+    "price": "681600",
+    "beds": "5",
+    "baths": "5",
+    "sqft": "4544",
+    "parking": "yes",
+    "outdoor": "pool, outdoor kitchen, pergola, firepit",
+    "ac": "yes",
+    "hoa": "0",
+    "listingDate": "2025-02-11",
+    "pricePerSqFt": "150",
+    "basement": "finished",
+    "rooms": "19",
+    "typesOfRooms": "Great Room, Dining Room, Kitchen, 4 guest bedroom, 2 guest bathroom, master bedroom, master bathroom, 2 half bathroom, gym, family room, game room, movie theater, laundry room, bunker",
+    "taxData": [
+      {
+        "year": "2024",
+        "tax": "$3544.32",
+        "assessment": "$354432"
+      }
+    ]
+  },
+  "similarHomes": [],
+  "carouselImages": {}
+}
