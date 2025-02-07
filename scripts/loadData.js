@@ -168,9 +168,9 @@ function loadSimilarHomesKlins(data) {
 
 function getHomeCard(property) {
     return `
-    <div class="col-md-3"> 
+    <div class="col-md-4 col-lg-3 col-sm-6"> 
     <div class="card h-100" >
-    <div style="height: 200px;" class=" d-flex align-items-center">
+    <div style="" class=" d-flex align-items-center">
     <img class="card-img-top w-100" src="${property.rootname}/primary.jpeg" alt="Card image cap">
     </div>
   <div class="card-body">
