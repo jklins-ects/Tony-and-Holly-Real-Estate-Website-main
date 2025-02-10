@@ -26,7 +26,7 @@
             ]
         },
         "similarHomes": [2, 3],
-        "numImages": 48,
+        "numImages": 50,
         "rootname": "../data/A & E Design Co/images"
     },
     {
@@ -56,7 +56,7 @@
             ]
         },
         "similarHomes": [1, 3],
-        "numImages": 44,
+        "numImages": 46,
         "rootname": "../data/A. G. Architecture/images"
     },
     {
@@ -116,7 +116,7 @@
             ]
         },
         "similarHomes": [],
-        "numImages": 77,
+        "numImages": 87,
         "rootname": "../data/CTR Industries/images"
     },
     {
@@ -153,7 +153,7 @@
         "hid": 6,
         "property": {
             "address": "456 Briarpatch Ct.",
-            "description": "This luxury beach house combines a beautiful view with a luxurious living space. Designed in 2025 with all the modern amenities while keeping an older more natural look. This property features a secondary home perfect for the in-laws. Featuring a 3 car garage. with 5300 square feet you will have plenty of room for your whole family. Along with the view of the lake there is also water access with on property boat storage.",
+            "description": "\"This fully renovated 3-bedroom, 2-bathroom mobile home is located in the desirable Girard School District, within the friendly Imperial Point Mobile Home Park. The home has been freshly painted and boasts updated windows and beautiful new flooring throughout, creating a fresh and inviting atmosphere. The spacious eat-in kitchen features a convenient peninsula ideal for casual dining or extra prep space and new cabinetry. Enjoy the convenience of first-floor laundry, making chores a breeze. The primary bedroom offers his/her closets and its own full bath, while the additional bedrooms are perfect for family, guests, or a home office. Step outside to relax on your private deck, perfect for outdoor living. With 2 parking spaces right outside, you'll have easy access to your home. This charming mobile home is the perfect blend of comfort and style, ready for you to move in and enjoy!\"",
             "price": "800000",
             "beds": "5",
             "baths": "6",
@@ -266,7 +266,7 @@
             ]
         },
         "similarHomes": [],
-        "numImages": 33,
+        "numImages": 35,
         "rootname": "../data/R & R Landscaping & Design/images"
     },
     {
@@ -296,7 +296,7 @@
             ]
         },
         "similarHomes": [],
-        "numImages": 77,
+        "numImages": 76,
         "rootname": "../data/SF Collective/images"
     },
     {
@@ -326,7 +326,7 @@
             ]
         },
         "similarHomes": [],
-        "numImages": 52,
+        "numImages": 57,
         "rootname": "../data/Shoreline Structures/images"
     }
 ]
